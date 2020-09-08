@@ -285,3 +285,10 @@ opacity:0.6;
 }
 
 q {font-style: italic;}
+
+@media screen{
+.footer {
+	color: white;
+}
+
+}
